@@ -10,7 +10,7 @@ The learning process is inspired by Nature of Code by Coding Train
 * vector / vector maths 
 * applying force
 * friction 
-* gravitye 
+* gravity
 * oscillation / circular motion
 * trigonometry
 * collision detection
