@@ -1,9 +1,22 @@
-# Creative-Minds
+# Nature of code
 
-Creative Minds is the place where we share different ideas and inspirations
+is to keep track of my experimentations on pysics simulations in 2d and the learning process is inspired by Nature of Code by Coding Train 
 
-We believe in **creativity** and **people**
 
+# Things I have been learning..
+
+ **vector / vector maths** 
+ **applying force** 
+ **friction** 
+ **gravitye** 
+ **oscillation / circular motion**
+ **trigonometry**
+ **collision detection**
+ **elastic collision**
+ **linear algebra**
+ **particle system**
+ **steering behavior** 
+ 
 ------
 
-For recent posts check out our website [Creative Minds](https://jinnn0.github.io/creative-minds/)
+[Nature of Code](https://jinnn0.github.io/nature-of-code/)
