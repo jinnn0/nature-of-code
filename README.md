@@ -1,6 +1,7 @@
 # Nature of code
 
-is to keep track of my experimentations on pysics simulations in 2d and the learning process is inspired by Nature of Code by Coding Train 
+Nature of Code is to keep track of my experimentations on pysics simulations in 2d. 
+The learning process is inspired by Nature of Code by Coding Train 
 
 
 -----
